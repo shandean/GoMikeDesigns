@@ -99,7 +99,7 @@ a:hover {
     color: #e6e6e6 !important;
 }
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -783,22 +783,18 @@ h4 {
     background-color: #364577;
 }
 
-.bgc-atomic-tangerine {
-    background-color: #F3976C;
-}
-
 .tc-white {
     color: #FFFFFF!important;
      font-size: 25px;
 }
 .btn-atomic-tangerine {
-    background: #df5312;
-    color: #FFFFFF!important;
+    background: #d23f14;
+    color: #FFFFFF;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #fc4204!important;
-    color: #FFFFFF!important;
+    background:#db4011;
+    color: #FFFFFF;
 }
 
 .ltc-white {
